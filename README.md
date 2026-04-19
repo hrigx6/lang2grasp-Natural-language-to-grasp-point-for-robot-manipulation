@@ -38,13 +38,20 @@ instruction: pick up the cup and place it on the notebook
 ```
 
 outputs:
+
  Prompt: pickup the flowers and place it in the cup
+ 
+ ![demo](results/pipeline_result.png)
+ ![demo](results/pipeline_result.png)
+
+ Prompt: place the glasses between flowers and the cup
+ 
+ ![demo](results/pipeline_result.png)
+ ![demo](results/pipeline_result.png)
+
+ 
 - `pipeline_result.png` — original image with segmentation overlay and markers
 - `task_space.png` — black background showing only detected objects
- Prompt: place the glasses between flowers and the cup
-
-- `pipeline_result_2.png` — original image with segmentation overlay and markers
-- `task_space_2.png` — black background showing only detected objects
 
 ## what works
 
