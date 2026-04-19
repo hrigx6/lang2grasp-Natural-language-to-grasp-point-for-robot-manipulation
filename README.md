@@ -37,15 +37,19 @@ image path (enter for default):
 instruction: pick up the cup and place it on the notebook
 ```
 
-outputs:
+Results:
 
- Prompt: pickup the flowers and place it in the cup
- 
+![terminal](results/terminal.png)
+
+Input Prompt: pickup the flowers and place it in the cup
+
+Output: 
  ![demo](results/pipeline_result.png)
  ![demo](results/task_space.png)
 
- Prompt: place the glasses between flowers and the cup
- 
+Input Prompt: place the glasses between flowers and the cup
+
+Output: 
  ![demo](results/pipeline_result_2.png)
  ![demo](results/task_space_2.png)
 
