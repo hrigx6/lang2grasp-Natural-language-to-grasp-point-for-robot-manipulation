@@ -42,12 +42,12 @@ outputs:
  Prompt: pickup the flowers and place it in the cup
  
  ![demo](results/pipeline_result.png)
- ![demo](results/pipeline_result.png)
+ ![demo](results/task_space.png)
 
  Prompt: place the glasses between flowers and the cup
  
- ![demo](results/pipeline_result.png)
- ![demo](results/pipeline_result.png)
+ ![demo](results/pipeline_result_2.png)
+ ![demo](results/task_space_2.png)
 
  
 - `pipeline_result.png` — original image with segmentation overlay and markers
